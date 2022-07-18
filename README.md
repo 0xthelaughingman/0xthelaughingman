@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There! 👋
+
+!["Hello There!"](https://github.com/Cruzo007/Cruzo007/blob/master/obiwan.gif)
 
 <!--
 **0xthelaughingman/0xthelaughingman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
