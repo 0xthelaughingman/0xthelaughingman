@@ -1,6 +1,6 @@
 ### Hello There! 👋
 
-!["Hello There!"](https://github.com/0xthelaughingman/0xthelaughingman/blob/main/obiwan.gif)
+!["Hello There!"](https://github.com/0xthelaughingman/0xthelaughingman/blob/main/obiwan.gif?raw=true)
 
 <!--
 **0xthelaughingman/0xthelaughingman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
